@@ -3,11 +3,6 @@
 
 ---
 
-**Connect with me:**  
-[GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:youremail@example.com)
-
----
-
 <sub>tech stack</sub>
 
 <p>
