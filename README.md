@@ -1,5 +1,4 @@
-
-<sub></sub>
+<sub>This account is primarily for personal backups and experiments. Most of the projects I've worked on are hosted on the company GitHub/GitLab.</sub>
 
 ---
 
@@ -10,3 +9,4 @@
 <img alt="c++" src="https://img.shields.io/badge/-C/C++-2088FF?style=flat-square&logo=c%2B%2B&logoColor=white" />
 <img alt="c#" src="https://img.shields.io/badge/-C%23-80c904?style=flat-square&logo=csharp&logoColor=white" />
 </p>
+
